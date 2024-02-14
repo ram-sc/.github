@@ -6,7 +6,7 @@ Benvenuti nel repository GitHub di RAM S.C., un'azienda informatica con oltre 30
 RAM S.C. è stata fondata nel 1990 da Franco e Danilo, con l'obiettivo di fornire soluzioni software su Personal Computer per la grande industria. Nel corso degli anni, abbiamo sviluppato soluzioni innovative e adattabili alle esigenze dei nostri clienti, mantenendo sempre un focus sulla ricerca e lo sviluppo.
 La Nostra Storia
 
-Da una decennale esperienza nella realizzazione di Software Paghe per Praxisu Main-Frame, siamo cresciuti fino a diventare un punto di riferimento nel settore. Nel 1998, abbiamo sviluppato il primo software di Rilevazione Presenze funzionante in cloud su rete "lenta", introducendo NETRAM.
+Da una decennale esperienza nella realizzazione di Software Paghe per Praxi su Main-Frame, siamo cresciuti fino a diventare un punto di riferimento nel settore. Nel 1998, abbiamo sviluppato il primo software di Rilevazione Presenze funzionante in cloud su rete "lenta", introducendo NETRAM.
 
 Con il passare degli anni, abbiamo ampliato il nostro team e le nostre competenze. Nel 2008 è nato Netram 2, evoluzione della nostra soluzione originale. Nel 2012, RAM è diventata una cooperativa di soci, rinnovando il nostro impegno nella ricerca e sviluppo.
 
